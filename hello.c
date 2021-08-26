@@ -12,7 +12,8 @@ A simple program stating my name and major
       
       printf("Brett Thieman;\n");
       printf("Computer Science\n");
-      
+      printf("Maclain Beach!\n");
+      printf("Computer Engineering\n");
       return 0;
       
   }
